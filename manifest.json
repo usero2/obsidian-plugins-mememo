@@ -1,8 +1,8 @@
 {
   "id": "mememo",
   "name": "MeMemo",
-  "version": "1.0.0",
-  "minAppVersion": "0.15.0",
+  "version": "1.0.1",
+  "minAppVersion": "1.0.0",
   "description": "Capture memos with file attachments tags and todos inspired by usememos",
   "author": "usero2-endofday",
   "authorUrl": "https://github.com/usero2",
